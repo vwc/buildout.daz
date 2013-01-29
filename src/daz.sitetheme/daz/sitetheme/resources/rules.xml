@@ -5,7 +5,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
     <!-- Add alternativ theme templates -->
-    <!-- Example to add minimal theme template for the
+    <!-- daz to add minimal theme template for the
          tiles editiong overlays -->
     <!--<theme href="minimal.html" if-path="@@edit-tile" />-->
     
@@ -32,7 +32,7 @@
         <!-- Custom favicon implementation -->
         <!--<drop content="link[@type='image/x-icon']" />
         <after theme="/html/head">
-            <link rel="shortcut icon" href="/++theme++example.jmstheme/img/favicon.ico" type="images/x-icon" />
+            <link rel="shortcut icon" href="/++theme++daz.jmstheme/img/favicon.ico" type="images/x-icon" />
         </after>-->
 
         <!-- Copy over the id/class attributes on the body tag.
